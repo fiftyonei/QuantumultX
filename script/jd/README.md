@@ -4,3 +4,10 @@
 ##### 活动地址：https://anmp.jd.com/babelDiy/Zeus/3gpAsWd6UBb1MWvr6PFYjNS4Nexk/index.html
 ##### 活动入口：京东app-女装馆-赢京豆
 ##### 脚本地址：https://raw.githubusercontent.com/fiftyonei/QuantumultX/master/script/jd/jd_nzmh.js
+
+
+#### 环球挑战赛第二季
+##### 活动时间：2021-03-08至2021-3-31
+##### 活动地址：https://gmart.jd.com/?appId=54935130
+##### 活动入口：京东app 搜索京东国际-环球挑战赛
+##### 脚本地址：https://raw.githubusercontent.com/fiftyonei/QuantumultX/master/script/jd/jd_global.js
