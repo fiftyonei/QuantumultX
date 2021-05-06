@@ -13,6 +13,7 @@
         "0 10 * * * https://raw.githubusercontent.com/chavyleung/scripts/master/wmmeituan/wmmeituan.js, tag=美团外卖, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/wmmeituan.png, enabled=true",
         "10 10 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/heybox/heybox.js, tag=小黑盒, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/heybox.png, enabled=true",
         "20 10 * * * https://raw.githubusercontent.com/zZPiglet/Task/master/elem/elemCheckIn.js, tag=饿了么-打卡领红包, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/elem.png, enabled=true",
-        "30 10 * * * https://raw.githubusercontent.com/songyangzz/QuantumultX/master/elem/elemSign.js, tag=饿了么, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/elem.png, enabled=true"
+        "30 10 * * * https://raw.githubusercontent.com/songyangzz/QuantumultX/master/elem/elemSign.js, tag=饿了么, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/elem.png, enabled=true",
+        "30 10 * * * https://raw.githubusercontent.com/GoodHolidays/Scripts/master/Task/youth.js, tag=中青看点, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/youth.png, enabled=true"
     ]
 }
