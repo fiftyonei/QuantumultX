@@ -2,6 +2,7 @@
     "name": "Eleven",
     "description": "https://raw.githubusercontent.com/fiftyonei/Eleven/master",
     "task": [
+        "13 0-23/2 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_zoo.js, tag=618动物联萌, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
         "2 9 * * * https://raw.githubusercontent.com/fiftyonei/QuantumultX/master/script/jd/jd_bean_change.js, tag=京东资产变动通知, img-url=https://raw.githubusercontent.com/Orz-3/mini/master/Color/jd.png, enabled=true",
         "10 7 * * * https://raw.githubusercontent.com/fiftyonei/QuantumultX/master/script/jd/jd_bean_home.js, tag=领京豆额外奖励, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jd_bean_home.png, enabled=true",
         "0 0 0 * * * https://raw.githubusercontent.com/fiftyonei/QuantumultX/master/script/jd/jd_blueCoin.js, tag=东东超市兑换奖品, img-url=https://raw.githubusercontent.com/58xinian/icon/master/jxc.png, enabled=true",
